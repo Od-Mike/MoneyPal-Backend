@@ -46,7 +46,7 @@ Please feel free to use any of the technologies listed below:
 ### Backend
 
 - Java Springboot
-- Node.js & Express
+- Node.js & Express (javascript & Typescript)
 - Python (Any Python stack)
 - MongoDB or any relational DB
 
@@ -61,7 +61,9 @@ Please feel free to use any of the technologies listed below:
 - Good file structure and naming convention
 - Your code must be unit tested both on the backend and frontend
 - You are expected to containerize using the app `Docker`
-- Application should be deployed to `AWS` 
+- Application should be deployed to `AWS`
+- Set up CI/CD pipelines using `Github actions`
+- There should a proper `README` on your project
 
 ## 🤔 How to contribute
 
