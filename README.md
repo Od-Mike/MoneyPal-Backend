@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Discord logo" src="https://github.com/ExquisAppFactory/lightweight/blob/develop/assets/monorepo.svg" height="150px" width="150px" />
+	<img alt="Discord logo" src="https://github.com/ExquisAppFactory/lightweight/blob/master/assets/monorepo.svg" height="150px" width="150px" />
 </h1>
 
 <h3 align="center">
