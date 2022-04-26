@@ -1,0 +1,10 @@
+.next/
+node_modules/
+/npm-debug.log
+.env
+.DS_Store
+/.env.production
+coverage
+.idea
+dist
+build
