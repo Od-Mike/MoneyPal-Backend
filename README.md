@@ -48,7 +48,19 @@ Please feel free to use any of the technologies listed below:
 - Java Springboot
 - Node.js & Express (javascript & Typescript)
 - Python (Any Python stack)
-- MongoDB or any relational DB
+
+### Database
+- MongoDB 
+- MySQL
+- PostGre SQL
+
+### Messaging
+- Apache Kafka
+- Rabbit MQ
+
+### Others
+- Docker
+
 
 ### Frontend
 
