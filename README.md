@@ -1,20 +1,20 @@
-<h1 align="center">
-	<img alt="Discord logo" src="https://github.com/ExquisAppFactory/lightweight/blob/master/assets/monorepo.svg" height="150px" width="150px" />
-</h1>
-
-<h3 align="center">
-  Light Weight App Monorepo architecture
-</h3>
 
 ## 👨🏻‍💻 About the project
 
-The Light Weight app is a project which is was born out of the idea of creating a way for new consultants to have hands-on experience with day-to-day cutting edge technologies which will be needed for their consulting projects. The project is using a monorepo architecture so that it will be easier for consultants to add their contributions as a project.
+The Light Weight app is a project which is was born out of 
+the idea of creating a way for new consultants to have hands-on experience with day-to-day
+cutting edge technologies which will be needed for their consulting projects. The project is using a 
+monorepo architecture so that it will be easier for consultants to add their contributions as a project.
 
 ## 📝 Project Requirement
 
-MoneyPal is a fictitous marketplace system where user have offers and request for services. Users have a virtual wallet where they can credit their wallets from within the system. 
+MoneyPal is a fictitous marketplace system where user have offers 
+and request for services. Users have a virtual wallet where they can credit their wallets from within the system. 
 
-The goal of this mini project is to build a backend services using the microservice architecture to facilitate transfer of money from a wallet to another wallet. Note that, the said system should have a `user service`, `payment service`, `billing service`, and a `wallet service` respectively. 
+The goal of this mini project is to build a backend 
+services using the microservice architecture to facilitate transfer of money 
+from a wallet to another wallet. Note that, the said system should have a 
+`user service`, `payment service`, `billing service`, and a `wallet service` respectively. 
 
 ### Technical Requirement:
 
