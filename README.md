@@ -4,11 +4,8 @@
 MoneyPal is a fictitous marketplace system where user have offers 
 and request for services. Users have a virtual wallet where they can credit their wallets from within the system. 
 
-The goal of this mini project is to build a backend 
-services using the microservice architecture to facilitate transfer of money 
-from a wallet to another wallet. Note that, the said system should have a 
-`user service`, `payment service`, `billing service`, and a `wallet service` respectively.
-
+This mini project uses the microservice architecture to facilitate transfer of money 
+from a wallet to another wallet. Although mock payments where used
 ## 🚀 Technologies
 
 ### Backend
