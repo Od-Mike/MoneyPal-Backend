@@ -7,14 +7,7 @@ and request for services. Users have a virtual wallet where they can credit thei
 The goal of this mini project is to build a backend 
 services using the microservice architecture to facilitate transfer of money 
 from a wallet to another wallet. Note that, the said system should have a 
-`user service`, `payment service`, `billing service`, and a `wallet service` respectively. 
-
-### Functional Requirement:
-
-- Users should be able to fund their wallets by making payment online (please feel free to use a mock payment)
-- Users wallet are expected to be debited when they pay for a service
-- Service provide's wallet is to be credited with the service charge collected from customers
-
+`user service`, `payment service`, `billing service`, and a `wallet service` respectively.
 
 ## 🚀 Technologies
 
